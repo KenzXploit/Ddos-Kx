@@ -9,9 +9,9 @@ IT IS RECOMMENDED TO USE WIFI FOR ATTACKS!!
 Open the terminal and run the following command:
 
 • ```
-git clone https://github.com/KenzXploit/web-attack```
+git clone https://github.com/KenzXploit/ddos-attack```
 
-• ```cd web-attack```
+• ```cd ddos-attack```
 
 • ```python3 attack.py```
 
