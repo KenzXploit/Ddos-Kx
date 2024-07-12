@@ -18,7 +18,8 @@ git clone https://github.com/KenzXploit/web-attack```
 Enter the IP-address of the target Website/Machine and Port number [use ```nslookup``` to find the IP address of the target website or use any other online website to find the IP address of the target Website/Machine.]
 
 # SCREENSHOT >
-![IMG_20240711_103625](https://github.com/KenzXploit/web-attack/assets/139042241/003ba870-b417-4861-924e-7b7c72da9e37)
+![IMG_20240711_103625](https://github.com/user-attachments/assets/3fa04811-4bc4-45c1-a9c0-1211c2130334)
+[](url)
 
 
 # WARNING !
