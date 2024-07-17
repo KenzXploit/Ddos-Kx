@@ -2,18 +2,17 @@
 
 DDoS (Distributed Denial of Service) is an attack that aims to make a service, server, or network inaccessible to legitimate users. This attack is carried out by flooding the target with very high internet traffic from various distributed sources. As a result, the system becomes unstable and cannot operate normally, and can even experience downtime.
 
-IT IS RECOMMENDED TO USE WIFI FOR ATTACKS!!
 
 # To use the project, follow these steps:
 
 Open the terminal and run the following command:
 
 • ```
-git clone https://github.com/KenzXploit/ddos-attack```
+git clone https://github.com/KenzXploit/Ddos-Kx```
 
-• ```cd ddos-attack```
+• ```cd Ddos-Kx```
 
-• ```python3 attack.py```
+• ```python3 Ddos-Kx.py```
 
 Enter the IP-address of the target Website/Machine and Port number [use ```nslookup``` to find the IP address of the target website or use any other online website to find the IP address of the target Website/Machine.]
 
