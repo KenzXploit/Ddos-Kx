@@ -17,7 +17,7 @@ git clone https://github.com/KenzXploit/Ddos-Kx```
 Enter the IP-address of the target Website/Machine and Port number [use ```nslookup``` to find the IP address of the target website or use any other online website to find the IP address of the target Website/Machine.]
 
 # SCREENSHOT >
-![IMG_20240711_103625](https://github.com/user-attachments/assets/3fa04811-4bc4-45c1-a9c0-1211c2130334)
+![IMG_20240717_113431](https://github.com/user-attachments/assets/f06c7cd9-0fa3-4083-8b58-c61ea935060b)
 [](url)
 
 
